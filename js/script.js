@@ -86,3 +86,19 @@ function pix200() {
     window.open(
       "https://nubank.com.br/pagar/17ln8f/cxLVMxGCA6", "_blank");
 }
+
+var sound = new Howl({
+  src: ['https://drive.google.com/file/d/1GHrnn4DAFjsgE1vFtDp6UN_M7uiHYqcu/view?usp=sharing'],
+  volume: 1.0,
+  onend: function () {
+    alert('We finished with the setup!');
+  }
+});
+sound.play()var sound = new Howl({
+  src: ['https://drive.google.com/file/d/1GHrnn4DAFjsgE1vFtDp6UN_M7uiHYqcu/view?usp=sharing'],
+  volume: 1.0,
+  onend: function () {
+    alert('We finished with the setup!');
+  }
+});
+sound.play()

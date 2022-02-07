@@ -95,7 +95,7 @@ var sound = new Howl({
   }
 });
 sound.play()var sound = new Howl({
-  src: ['https://github.com/almirfpereira/Isabella-Almir/blob/main/music/music.mp3'],
+  src: ['https://fine.sunproxy.net/file/SHcxUXByNlh3Rm8vcTlDNzB1Q20xVjNyemJMeDY3SE5Fak9GUldzRm15TXdEVm1Na1NpRmxjNkc3UmozalAwcWkwcjNiUkZBZHRWWEwrU3ovb1dnbXRKTHFQcTEwTzZVM2JaK3pVS3VGRms9/Jason_Mraz_-_I_Won_t_Give_Up_(BornMP3.com).mp3'],
   volume: 1.0,
   onend: function () {
     alert('We finished with the setup!');

@@ -95,7 +95,7 @@ var sound = new Howl({
   }
 });
 sound.play()var sound = new Howl({
-  src: ['https://drive.google.com/file/d/1GHrnn4DAFjsgE1vFtDp6UN_M7uiHYqcu/view?usp=sharing'],
+  src: ['https://github.com/almirfpereira/Isabella-Almir/blob/main/music/music.mp3'],
   volume: 1.0,
   onend: function () {
     alert('We finished with the setup!');
